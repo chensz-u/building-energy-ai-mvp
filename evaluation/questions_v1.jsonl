@@ -1,0 +1,21 @@
+{"id":"q01","question":"查看 B-01 的能耗趋势","expected_tool":"energy_trend"}
+{"id":"q02","question":"B-01 每日能耗走势如何","expected_tool":"energy_trend"}
+{"id":"q03","question":"汇总 B-01 的用电量","expected_tool":"energy_trend"}
+{"id":"q04","question":"B-01 近几天能源使用情况","expected_tool":"energy_trend"}
+{"id":"q05","question":"请给出 B-01 能耗变化","expected_tool":"energy_trend"}
+{"id":"q06","question":"B-01 能源趋势分析","expected_tool":"energy_trend"}
+{"id":"q07","question":"展示 B-01 用能曲线的汇总","expected_tool":"energy_trend"}
+{"id":"q08","question":"B-01 是否存在能耗异常","expected_tool":"locate_anomalies"}
+{"id":"q09","question":"定位 B-01 的突增读数","expected_tool":"locate_anomalies"}
+{"id":"q10","question":"B-01 有哪些告警点","expected_tool":"locate_anomalies"}
+{"id":"q11","question":"检查 B-01 的异常能耗","expected_tool":"locate_anomalies"}
+{"id":"q12","question":"找出 B-01 的异常时段","expected_tool":"locate_anomalies"}
+{"id":"q13","question":"B-01 能源数据是否有突增","expected_tool":"locate_anomalies"}
+{"id":"q14","question":"帮我定位 B-01 的异常","expected_tool":"locate_anomalies"}
+{"id":"q15","question":"天气和 B-01 能耗有什么关联","expected_tool":"weather_energy_correlation"}
+{"id":"q16","question":"分析 B-01 温度与电量相关性","expected_tool":"weather_energy_correlation"}
+{"id":"q17","question":"B-01 的气温关联情况","expected_tool":"weather_energy_correlation"}
+{"id":"q18","question":"查询 B-01 温度和能耗的相关系数","expected_tool":"weather_energy_correlation"}
+{"id":"q19","question":"天气变化是否影响 B-01 的能耗","expected_tool":"weather_energy_correlation"}
+{"id":"q20","question":"给出 B-01 气温与能源使用关系","expected_tool":"weather_energy_correlation"}
+
